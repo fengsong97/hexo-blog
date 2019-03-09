@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   type: git
   repo: http://github.com/fengsong97/hexo-blog.git
-  branch: gp-pages
+  branch: gh-pages
