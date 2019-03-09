@@ -1,2 +1,2 @@
 # hexo-blog
-http://fengsong97/github.io/hexo-blog
+https://fengsong97/github.io/hexo-blog
